@@ -1,5 +1,6 @@
 <?php
-  $page = "Home"
+  $page = "Home";
+  $name = "";
 ?>
   <?php require("templates/head.php"); ?>
   <body>
